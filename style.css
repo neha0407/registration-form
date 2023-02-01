@@ -17,3 +17,14 @@
         background: linear-gradient(to right, #E55D87, #6a5fe4);
         color: #a0a5a8;
     }
+    .main {
+            position: relative;
+            width: 1000px;
+            min-width: 1000px;
+            min-height: 600px;
+            height: 600px;
+            padding: 25px;
+            background-color: #ecf0f3;
+            border-radius: 12px;
+            overflow: hidden;
+        }
